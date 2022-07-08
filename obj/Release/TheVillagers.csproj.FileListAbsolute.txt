@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Project\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\user\Desktop\Project\WebApplication2\bin\WebApplication2.dll
+C:\Users\user\Desktop\Project\WebApplication2\bin\WebApplication2.pdb
+C:\Users\user\Desktop\Project\WebApplication2\obj\Release\TheVillagers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project\WebApplication2\obj\Release\TheVillagers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project\WebApplication2\obj\Release\WebApplication2.dll
+C:\Users\user\Desktop\Project\WebApplication2\obj\Release\WebApplication2.pdb

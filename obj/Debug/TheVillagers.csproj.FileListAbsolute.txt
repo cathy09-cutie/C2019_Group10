@@ -1,0 +1,12 @@
+C:\Vb\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Vb\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Vb\WebApplication2\WebApplication2\obj\Debug\TheVillagers.csprojResolveAssemblyReference.cache
+C:\Vb\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Vb\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\user\Desktop\Project\WebApplication2\bin\WebApplication2.dll
+C:\Users\user\Desktop\Project\WebApplication2\bin\WebApplication2.pdb
+C:\Users\user\Desktop\Project\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\user\Desktop\Project\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\user\Desktop\Project\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\user\Desktop\Project\WebApplication2\obj\Debug\TheVillagers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project\WebApplication2\obj\Debug\TheVillagers.csproj.CoreCompileInputs.cache
